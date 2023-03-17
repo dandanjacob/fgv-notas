@@ -1,2 +1,2 @@
 # fgv-notas
-Repositório para fins de estudo  eorganização dos materiais de estudo
+Repositório para fins de estudo pessoal e organização dos materia  didáticos dos orientadores.
